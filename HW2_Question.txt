@@ -1,0 +1,45 @@
+2.3.8 .WP Disks of polycarbonate plastic from a supplier are
+analyzed for scratch and shock resistance. The results from
+100 disks are summarized as follows:
+
+Shock Resistance
+High Low
+
+Scratch
+Resistance
+
+High 70 9
+Low 16 5
+
+Let A denote the event that a disk has high shock resistance,
+
+and let B denote the event that a disk has high scratch resistance. If a disk is selected at random, determine the following
+
+probabilities:
+a. P(A) 
+b. P(B) 
+c. P(A′)
+d. P(A ∩ B) 
+e. P(A ∪ B) 
+f. P(A′ ∪ B)
+
+
+
+
+2.4.6 .WP Strands of copper wire from a manufacturer are ana-
+lyzed for strength and conductivity. The results from 100 strands
+
+are as follows:
+
+Strength
+High Low
+High conductivity 74 8
+Low conductivity 15 3
+a. If a strand is randomly selected, what is the probability
+that its conductivity is high and its strength is high?
+b. If a strand is randomly selected, what is the probability
+that its conductivity is low or its strength is low?
+c. Consider the event that a strand has low conductivity and
+the event that the strand has low strength. Are these two
+events mutually exclusive?
+
