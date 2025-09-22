@@ -1,0 +1,20 @@
+3.5.8 A multiple-choice test contains 25 questions, each with four
+answers. Assume that a student just guesses on each question.
+a. What is the probability that the student answers more than
+20 questions correctly?
+b. What is the probability that the student answers fewer
+than 5 questions correctly?
+
+
+3.8.6 The number of cracks in a section of interstate highway that
+are significant enough to require repair is assumed to follow a
+Poisson distribution with a mean of two cracks per mile.
+a. What is the probability that there are no cracks that
+require repair in 5 miles of highway?
+b. What is the probability that at least one crack requires
+repair in 1/2 mile of highway?
+c. If the number of cracks is related to the vehicle load on the
+highway and some sections of the highway have a heavy load
+of vehicles whereas other sections carry a light load, what do
+you think about the assumption of a Poisson distribution for
+the number of cracks that require repair?
