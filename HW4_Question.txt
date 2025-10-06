@@ -1,0 +1,54 @@
+4.5.4 .WP Assume that X is normally distributed with a mean of
+10 and a standard deviation of 2. Determine the value for x that
+solves each of the following:
+a. P(X > x) = 0.5 
+b. P(X > x) = 0.95
+c. P(x < X < 10) = 0 
+d. P(−x < X − 10 < x) = 0.95
+e. P(−x < X − 10 < x) = 0.99
+
+
+
+4.5.8 Cholesterol is a fatty substance that is an important part
+of the outer lining (membrane) of cells in the body of animals.
+Its normal range for an adult is 120–240 mg/dl. The Food and
+
+Nutrition Institute of the Philippines found that the total choles-
+terol level for Filipino adults has a mean of 159.2 mg/dl and
+
+84.1% of adults have a cholesterol level less than 200 mg/dl
+(www.fnri.dost.gov.ph/). Suppose that the total cholesterol level
+is normally distributed.
+a. Determine the standard deviation of this distribution.
+b. What are the quartiles (the 25% and 75% percentiles) of
+this distribution?
+c. What is the value of the cholesterol level that exceeds 90%
+of the population?
+d. An adult is at moderate risk if cholesterol level is more
+than 1 but less than 2 standard deviations above the mean.
+
+What percentage of the population is at moderate risk accord-
+ing to this criterion?
+
+e. An adult whose cholesterol level is more than 2 standard
+deviations above the mean is thought to be at high risk. What
+percentage of the population is at high risk?
+f. An adult whose cholesterol level is less than 1 standard
+deviation below the mean is thought to be at low risk. What
+percentage of the population is at low risk?
+
+
+
+4.5.9 In an accelerator center, an experiment needs a 1.41-cm-
+thick aluminum cylinder (http://puhep1.princeton.edu/mumu/
+
+target/Solenoid_Coil.pdf). Suppose that the thickness of a cylin-
+der has a normal distribution with a mean of 1.41 cm and a
+
+standard deviation of 0.01 cm.
+a. What is the probability that a thickness is greater than
+1.42 cm?
+b. What thickness is exceeded by 95% of the samples?
+c. If the specifications require that the thickness is between
+1.39 cm and 1.43 cm, what proportion of the samples meets
+specifications?
